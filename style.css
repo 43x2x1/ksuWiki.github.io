@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.title {
+    height:fit-content;
+    font-family: Arial;
+    font-size: large;
+    font-weight: bold;
+    left: 5vw;
+}
+
+#contents {
+
+}
